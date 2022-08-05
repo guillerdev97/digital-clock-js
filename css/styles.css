@@ -1,0 +1,14 @@
+@import url("./header.css");
+@import url("./clockSection.css");
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: rgb(221, 218, 218);
+    background-color: rgb(22, 22, 22);
+}

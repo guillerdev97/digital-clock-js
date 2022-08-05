@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    padding: 0 20px;
+    background-color: black;
+}
+.headerTitles {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+.headerTitles h1 {
+    font-size: 54px;
+    text-transform: uppercase;
+}
+.headerTitles h3 {
+    font-size: 24px;
+}
+

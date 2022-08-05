@@ -1,0 +1,22 @@
+.clockSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 200px;
+    margin: 50px auto;
+}
+.clockContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 40%;
+    height: 175px;
+
+    border: 1px solid white;
+}
+.clockTime {
+    font-size: 24px;
+}
